@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SQLitesample</string>
+    <string name="bn_inst">插入</string>
+</resources>
